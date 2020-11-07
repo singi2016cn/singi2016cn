@@ -1,7 +1,17 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=singi2016cn)
 
-**singi2016cn/singi2016cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### profile
+
+- 🔭 I’m currently working on sailing
+- 🌱 I’m currently learning go,java
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about coding
+- 📫 How to reach me: 787575327@qq.com
+- 😄 Pronouns: singi
+- ⚡ Fun fact: coding,paradox's games,badminton
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -13,17 +23,3 @@
 ### :trophy: trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=singi2016cn)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on sailing
-- 🌱 I’m currently learning go,java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about coding
-- 📫 How to reach me: 787575327@qq.com
-- 😄 Pronouns: singi
-- ⚡ Fun fact: coding,paradox's games,badminton
-
-
