@@ -4,14 +4,14 @@
 
 ### profile
 
-- 🔭 I’m currently working on ueth.org
+- 🔭 I’m currently working on fabida.cn
 - 🌱 I’m currently learning go,java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about coding
 - 📫 How to reach me: 787575327@qq.com
 - 😄 Pronouns: singi
-- ⚡ Fun fact: coding,paradox's games,badminton
+- ⚡ Fun fact: coding,paradox's games,badminton,running
 
 ### ⚙️ &nbsp;GitHub Analytics
 
