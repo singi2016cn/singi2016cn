@@ -4,8 +4,8 @@
 
 ### profile
 
-- 🔭 I’m currently working on fabida.cn
-- 🌱 I’m currently learning go,java
+- 🔭 I’m currently working on quectel
+- 🌱 I’m currently learning ruby
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about coding
